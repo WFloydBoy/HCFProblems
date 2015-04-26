@@ -4,7 +4,7 @@ Hardcore problems for hardcore people
 Since the source repo is private, this repo will serve as an issue tracker.
 
 For the latest downloads, [check here](https://ci.drtshock.net/job/HCFactions/).
-If you don't have access to the downloads, [read here](https://gist.github.com/drtshock/d3105986088775fc6c20).
+If you want to buy HCF, [check here](https://mcexchange.org/resources/hcfactions.2/).
 
 ### Issue guidelines
 ##### Versioning
