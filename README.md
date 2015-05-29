@@ -19,5 +19,6 @@ If you want to buy HCF, [check here](https://mcexchange.org/resources/hcfactions
 * KriticalPvP 
 * lyzha
 * youngpvprock
+* PatManGames 
 
 If you're missing from this list but shouldn't be, contact us. 
