@@ -20,5 +20,7 @@ If you want to buy HCF, [check here](https://mcexchange.org/resources/hcfactions
 * lyzha
 * youngpvprock
 * PatManGames 
+* ScarOG
+* Insanity14
 
 If you're missing from this list but shouldn't be, contact us. 
