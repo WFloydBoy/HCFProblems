@@ -23,5 +23,6 @@ If you want to buy HCF, [check here](https://mcexchange.org/resources/hcfactions
 * ScarOG
 * Insanity14
 * AlfieC
+* IlPicasso
 
 If you're missing from this list but shouldn't be, contact us. 
