@@ -9,7 +9,7 @@ If you want to buy HCF, [check here](https://mcexchange.org/resources/hcfactions
 Watch or star this repository for notifications. Remember to check your open issues frequently!
 
 ### Verified users
-#### Only verified users will recieve support, if you're not verified yet mention your CI / MCExchange username in the issue.
+#### Only verified users will recieve support, if you're not verified yet fork this repository and add your name to the readme and then pull request it, (or email me).
 * SnakeDaoust1232
 * nscwalk
 * SoAaron
