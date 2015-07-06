@@ -26,5 +26,6 @@ Watch or star this repository for notifications. Remember to check your open iss
 * Insanity14
 * AlfieC
 * IlPicasso
+* WFloydBoy
 
 If you're missing from this list but shouldn't be, contact us. 
